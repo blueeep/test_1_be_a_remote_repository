@@ -18,4 +18,5 @@ git学习，使用github的远程仓库
 #怎么搭建自己的git远程服务器？
 
 
-#git想远程github仓库push时候需要登陆github？
+#git向远程github仓库push时候需要登陆github？
+
